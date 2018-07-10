@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pokedex</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYmVhcnN0dWRpbyIsImEiOiJjamh3MXJtNTEwcno4M3BsaHV0dzNhbWp3In0.NIVTY6rOxet-nHwkG6T-dA</string>
+</resources>
